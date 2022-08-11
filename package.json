@@ -1,0 +1,22 @@
+{
+  "name": "js-hw-22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tymokri/JS-hw-22.git"
+  },
+  "author": "Khrystyna Tymofiichuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tymokri/JS-hw-22/issues"
+  },
+  "homepage": "https://github.com/tymokri/JS-hw-22#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
